@@ -22,20 +22,30 @@ At Universidad Católica de Pereira, the lab reservation process was manual, lea
 
 ### 🔹 Intelligent Access Control System
 
-This project aimed to manage access to restricted areas through a smart access system, enhancing institutional security. I designed interactive mockups using **Figma**, focusing on user experience. The project was structured following PMBOK best practices, applying estimation techniques for cost, time, and risk analysis. Using **Scrum** and **XP** principles, we developed iterative deliverables that allowed for continuous feedback and improvement. The final prototype accurately represented the system’s functional flow and was praised for its structured and technically sound project management.
+El proyecto busca modernizar la gestión de espacios en la Universidad Católica de Pereira mediante el uso de tecnologías IoT y RFID integradas con sistemas web, fortaleciendo la seguridad, eficiencia y trazabilidad institucional. Con esta solución se pretende transformar procesos manuales en operaciones automatizadas, seguras y conectadas en tiempo real, impulsando la digitalización de la infraestructura universitaria.
+
+La solución fue desarrollada utilizando Flask, React y MySQL, garantizando escalabilidad y conectividad entre los dispositivos físicos y la plataforma web. Inicialmente concebido como un proyecto empresarial, su viabilidad técnica y costo-beneficio motivaron la creación de un semillero de investigación universitario para refinar su desarrollo y planificar su futura implementación institucional.
+
+En cuanto a la gestión del proyecto, se aplicaron buenas prácticas del PMBOK para la planificación y control de alcance, tiempo, costos y riesgos, junto con metodologías ágiles (Scrum y XP) que facilitaron el trabajo colaborativo, la iteración continua y la mejora progresiva del prototipo. Esta gestión estructurada permitió mantener la coherencia técnica del proyecto, cumplir los objetivos en los plazos estimados y asegurar la alineación con los estándares de calidad académica y tecnológica de la universidad.
 
 ---
 
 ## 🛠️ Tools and Technologies
 
 <div align="center">
-  
+
+  <!-- Lenguajes y Tecnologías -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="55" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
+
+  <!-- Herramientas y metodologías -->
+  <br><br>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" height="30"/>
   <img src="https://img.shields.io/badge/Scrum-4AC71B?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Scrum" height="30"/>
   <img src="https://img.shields.io/badge/XP%20(Extreme%20Programming)-F06529?style=for-the-badge" alt="XP" height="30"/>
@@ -43,6 +53,7 @@ This project aimed to manage access to restricted areas through a smart access s
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" height="30"/>
 
 </div>
+
 
 ---
 
