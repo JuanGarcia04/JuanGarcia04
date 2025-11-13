@@ -1,8 +1,8 @@
 # 👨‍💼 Juan Esteban García Morillo
 
 **Systems and Telecommunications Engineering**  
-📍 8th Semester | Universidad Católica de Pereira  
-🔍 **Software project management | Data Analysis | Agile**
+📍 9th Semester | Universidad Católica de Pereira  
+🔍 ** Software Development | Software project management | Data Analysis | Agile**
 
 ---
 
@@ -22,11 +22,11 @@ At Universidad Católica de Pereira, the lab reservation process was manual, lea
 
 ### 🔹 Intelligent Access Control System
 
-El proyecto busca modernizar la gestión de espacios en la Universidad Católica de Pereira mediante el uso de tecnologías IoT y RFID integradas con sistemas web, fortaleciendo la seguridad, eficiencia y trazabilidad institucional. Con esta solución se pretende transformar procesos manuales en operaciones automatizadas, seguras y conectadas en tiempo real, impulsando la digitalización de la infraestructura universitaria.
+The project aims to modernize space management at the Universidad Católica de Pereira through the use of IoT and RFID technologies integrated with web systems, strengthening institutional security, efficiency, and traceability. This solution seeks to transform manual processes into automated, secure, and real-time connected operations, driving the digitalization of the university’s infrastructure.
 
-La solución fue desarrollada utilizando Flask, React y MySQL, garantizando escalabilidad y conectividad entre los dispositivos físicos y la plataforma web. Inicialmente concebido como un proyecto empresarial, su viabilidad técnica y costo-beneficio motivaron la creación de un semillero de investigación universitario para refinar su desarrollo y planificar su futura implementación institucional.
+The solution was developed using Flask, React, and MySQL, ensuring scalability and seamless connectivity between physical devices and the web platform. Initially conceived as a business project, its technical feasibility and cost-effectiveness led to the creation of a university research group to further refine its development and plan its future institutional integration.
 
-En cuanto a la gestión del proyecto, se aplicaron buenas prácticas del PMBOK para la planificación y control de alcance, tiempo, costos y riesgos, junto con metodologías ágiles (Scrum y XP) que facilitaron el trabajo colaborativo, la iteración continua y la mejora progresiva del prototipo. Esta gestión estructurada permitió mantener la coherencia técnica del proyecto, cumplir los objetivos en los plazos estimados y asegurar la alineación con los estándares de calidad académica y tecnológica de la universidad.
+Regarding project management, we applied PMBOK best practices for planning and controlling scope, time, cost, and risks, alongside agile methodologies (Scrum and XP) that encouraged collaboration, continuous iteration, and progressive improvement of the prototype. This structured approach ensured technical consistency, on-time delivery, and alignment with the university’s academic and technological quality standards.
 
 ---
 
@@ -39,7 +39,6 @@ En cuanto a la gestión del proyecto, se aplicaron buenas prácticas del PMBOK p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="React" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="55" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
