@@ -2,7 +2,7 @@
 
 **Systems and Telecommunications Engineering**  
 📍 9th Semester | Universidad Católica de Pereira  
-🔍 ** Software Development | Software project management | Data Analysis | Agile**
+🔍 **Software Development | Software project management | Data Analysis | Agile**
 
 ---
 
