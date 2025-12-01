@@ -83,7 +83,7 @@ My goal is to lead software projects that create real impact by combining techni
 ## 📫 Contact
 
 - ✉️ jegarcia042005@gmail.com 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/juanesteban/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/juanestebangarcia/)
 
 ---
 
